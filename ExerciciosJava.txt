@@ -1,1 +1,1 @@
-Exercícios do curso de Java
+Exercícios do curso de Java utilizando a IDE Eclipse
