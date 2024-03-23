@@ -19,18 +19,18 @@ public class Exercicio005 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("Digite o código da Peça1: ");
+		System.out.print("Digite o código da Peça: ");
 		cod1 = sc.nextInt();
-		System.out.print("Digite a quantidade adqurida da Peça1: ");
+		System.out.print("Digite a quantidade adqurida da Peça " + cod1 + ": ");
 		quant1 = sc.nextInt();
-		System.out.print("Digite o valor unitário da Peça1: R$");
+		System.out.print("Digite o valor unitário da Peça " + cod1 + ": R$");
 		preco1 = sc.nextDouble();
 
-		System.out.print("Digite o código da Peça2: ");
+		System.out.print("Digite o código da Peça: ");
 		cod2 = sc.nextInt();
-		System.out.print("Digite a quantidade adqurida da Peça2: ");
+		System.out.print("Digite a quantidade adqurida da Peça " + cod2 + ": ");
 		quant2 = sc.nextInt();
-		System.out.print("Digite o valor unitário da Peça2: R$");
+		System.out.print("Digite o valor unitário da Peça " + cod2 + ": R$");
 		preco2 = sc.nextDouble();
 		
 		total = quant1 * preco1 + quant2 * preco2;
