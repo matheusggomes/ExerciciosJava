@@ -6,7 +6,6 @@ número da linha, depois o quadrado e o cubo do valor, conforme exemplo.
  
 */
 
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class Exercicio024 {
