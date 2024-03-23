@@ -23,6 +23,7 @@ em R$ 80.36 no total. O valor deve ser impresso com duas casas
 decimais.
 
 */
+package basico;
 
 import java.util.Locale;
 import java.util.Scanner;

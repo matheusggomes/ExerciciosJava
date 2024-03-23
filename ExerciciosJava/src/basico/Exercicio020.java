@@ -6,6 +6,7 @@ Apresente a média ponderada para cada um destes conjuntos de 3 valores, sendo q
 primeiro valor tem peso 2, o segundo valor tem peso 3 e o terceiro valor tem peso 5.
 
 */
+package basico;
 
 import java.util.Locale;
 import java.util.Scanner;

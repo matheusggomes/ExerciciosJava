@@ -5,6 +5,7 @@ mostrar na tela N linhas, começando de 1 até N. Para cada linha, mostrar o
 número da linha, depois o quadrado e o cubo do valor, conforme exemplo. 
  
 */
+package basico;
 
 import java.util.Scanner;
 

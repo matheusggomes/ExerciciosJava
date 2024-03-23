@@ -8,6 +8,7 @@ escreva a mensagem “Origem”. Se o ponto estiver sobre um dos eixos
 escreva “Eixo X” ou “Eixo Y”, conforme for a situação. 
  
 */
+package basico;
 
 import java.util.Locale;
 import java.util.Scanner;

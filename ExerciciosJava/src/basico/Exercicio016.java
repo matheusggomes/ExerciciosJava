@@ -6,6 +6,7 @@ pertence. O algoritmo será encerrado quando pelo menos uma de duas coordenadas
 for NULA (nesta situação sem escrever mensagem alguma).
 
 */
+package basico;
 
 import java.util.Scanner;
 

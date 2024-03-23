@@ -4,6 +4,7 @@ Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os Ã­mpares de 1 atÃ
 um valor por linha, inclusive o X, se for o caso. 
 
 */
+package basico;
 
 import java.util.Scanner;
 

@@ -6,6 +6,7 @@ quantos estão fora do intervalo, mostrando essas informações conforme exemplo
 palavra "in" para dentro do intervalo, e "out" para fora do intervalo).
 
 */
+package basico;
 
 import java.util.Scanner;
 

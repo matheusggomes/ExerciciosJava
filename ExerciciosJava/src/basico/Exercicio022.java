@@ -5,6 +5,7 @@ Fatorial de N = N * (N-1) * (N-2) * (N-3) * ... * 1.
 Lembrando que, por definição, fatorial de 0 é 1.
 
 */
+package basico;
 
 import java.util.Scanner;
 

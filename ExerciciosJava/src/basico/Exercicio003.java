@@ -6,6 +6,7 @@ pelo produto de C e D segundo a fórmula:
 DIFERENCA = (A * B - C * D).
 
 */
+package basico;
 
 import java.util.Scanner;
 

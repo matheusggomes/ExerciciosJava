@@ -12,6 +12,7 @@ CODIGO		ESPECIFICAÇÃO		PREÇO
 5			Refrigerante		R$ 1.50
 
 */
+package basico;
 
 import java.util.Scanner;
 

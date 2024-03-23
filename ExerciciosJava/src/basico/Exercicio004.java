@@ -7,6 +7,7 @@ A seguir, mostre o número e o salário do funcionário,
 com duas casas decimais.
 
 */
+package basico;
 
 import java.util.Locale;
 import java.util.Scanner;

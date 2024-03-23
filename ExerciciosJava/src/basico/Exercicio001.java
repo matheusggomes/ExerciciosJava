@@ -5,6 +5,7 @@ e depois mostrar na tela a soma desses números
 com uma mensagem explicativa.
 
 */
+package basico;
 
 import java.util.Scanner;
 

@@ -9,6 +9,7 @@ d) a área do quadrado que tem lado B.
 e) a área do retângulo que tem lados A e B.  
   
 */
+package basico;
 
 import java.util.Locale;
 import java.util.Scanner;

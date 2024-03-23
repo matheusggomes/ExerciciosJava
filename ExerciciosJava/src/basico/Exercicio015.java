@@ -7,6 +7,7 @@ a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha
 correta é o valor 2002. 
  
 */
+package basico;
 
 import java.util.Scanner;
 

@@ -7,6 +7,7 @@ Obviamente se o valor não estiver em nenhum destes intervalos,
 deverá ser impressa a mensagem “Fora de intervalo”. 
 
 */
+package basico;
 
 import java.util.Locale;
 import java.util.Scanner;

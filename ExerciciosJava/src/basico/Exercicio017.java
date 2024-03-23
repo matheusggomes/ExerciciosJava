@@ -9,6 +9,7 @@ informado for o número 4. Deve ser escrito a mensagem: "MUITO OBRIGADO" e a
 quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo. 
 
 */
+package basico;
 
 import java.util.Scanner;
 

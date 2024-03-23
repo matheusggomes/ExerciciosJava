@@ -5,6 +5,7 @@ divisão do primeiro pelo segundo. Se o denominador for igual a zero, mostrar a
 mensagem "divisao impossivel". 
  
 */
+package basico;
 
 import java.util.Locale;
 import java.util.Scanner;
