@@ -26,26 +26,21 @@ import java.util.Scanner;
 public class Programa {
 
 	public static void main(String[] args) {
-		Retangulo r1 = new Retangulo();
+		
 		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
+		Retangulo r1 = new Retangulo();
 		System.out.print("Digite a largura do Retângulo: ");
-		double largura = sc.nextDouble();
+		r1.largura = sc.nextDouble();
 		System.out.print("Digite a altura do Retângulo: ");
-		double altura = sc.nextDouble();
-		
-		double area = r1.area(largura, altura);
-		double perimetro = r1.perimetro(largura, altura);
-		double diagonal = r1.diagonal(largura, altura);
-		
-		System.out.printf("Área = %.2f%n", area);
-		System.out.printf("Perímetro = %.2f%n", perimetro);
-		System.out.printf("Diagonal = %.2f%n", diagonal);
+		r1.altura= sc.nextDouble();
+				
+		System.out.printf("Área = %.2f%n", r1.area());
+		System.out.printf("Perímetro = %.2f%n", r1.perimetro());
+		System.out.printf("Diagonal = %.2f%n", r1.diagonal());
 		
 		sc.close();
-
 	}
-
 }

@@ -4,29 +4,17 @@ public class Retangulo {
 	double largura;
 	double altura;
 	
-	public double area(double base, double altura) {
-		this.largura = base;
-		this.altura = altura;
-		
-		return base * altura;
+	public double area() {
+		return largura * altura;
 	}
 	
-	public double perimetro(double base, double altura) {
-		this.largura = base;
-		this.altura = altura;
-		
-		return 2 * (base + altura);
+	public double perimetro() {		
+		return 2 * (largura + altura);
 	}
 	
-	public double diagonal(double base, double altura) {
-		largura = base;
-		this.altura = altura;
-		double diagonal;
+	public double diagonal() {
+		double diagonal = Math.sqrt(largura*largura + altura*altura);
 		
-		diagonal = Math.sqrt(base*base + altura*altura);
-		
-		return diagonal;
-		
-	}
-	
+		return diagonal;	
+	}	
 }
